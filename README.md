@@ -40,7 +40,7 @@ I am from Ukraine currently living in Barcelona.
 I speak English and German (full working proficiency) and Spanish at an intermediate level (B1+). 
 In 2010 I graduated from a faculty of Foreign Languages where I studied translation from English and German.
 After that I worked as a translator for 1 year where I travelled to Europe and Asia to work as an interpreter at machinery exhibitions (China, Taiwan, Germany, Austria). 
-But soon I understood that I would like to develop technical skills, because I saw how AI tools were developing and understood that only knowing foreign languages it not enough. 
+But soon I understood that I would like to develop technical skills, because I saw how AI tools were evolving and understood that only knowing foreign languages it not enough. 
 
 With that, in 2011 I started working as a Customer Care agent at company Gameloft. 
 The next career path you can check on my Linkedin page, but in short I: 
@@ -59,7 +59,7 @@ Currently I am working as a QA Manager for a big company in Barcelona. I am in c
 * promoting quality culture
 
 Why am I learning programming? Because I would like to work with data in a more efficient way and automate repetitive tasks.
-As a data oriented person, I am interested in learning Python combining it with my passion for SQL. 
+As someone who enjoys working with data, I think that Python will help me develop my skills in data analytics. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
