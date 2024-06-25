@@ -56,7 +56,7 @@ Currently I am working as a QA Manager for a big company in Barcelona. I am in c
 * presentations and leading events
 * promoting quality culture
 
-Why am I learning programming? Because I see opportunities in my current role for a more efficient work with data, to retreive them and see opportunities for the improvement of the current process. 
+Why am I learning programming? Because I would like to work with data in a more efficient way and automate repetitive tasks.
 As a data oriented person, I am interested in learning Python combining it with my passion for SQL. 
 
 
