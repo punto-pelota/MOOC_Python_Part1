@@ -59,7 +59,7 @@ Currently I am working as a QA Manager for a big company in Barcelona. I am in c
 * promoting quality culture
 
 Why am I learning programming? Because I would like to work with data in a more efficient way and automate repetitive tasks.
-As a data oriented person, I am interested in learning Python combining it with my passion for SQL. 
+As someone who enjoys working with data, I think that Python will help me develop my skills in data analytics. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
