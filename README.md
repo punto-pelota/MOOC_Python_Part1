@@ -44,7 +44,7 @@ With that, in 2011 I started working as a Customer Care agent at company Gamelof
 The next career path you can check on my Linkedin page, but in short I: 
 
 * completed a QA Engineering course and got a job as a QA Engineer in a database company testing SQL queries in PL/SQL and T-SQL
-* worked for a Swiss startup for auditors proofreading content in three languages, running regression tests and maintaining project documentation up-to-date which was crusial for this project with 2 week sprints 
+* worked for a Swiss startup for auditors proofreading content in three languages, running regression tests and maintaining project documentation up-to-date which was crucial for this project with 2 week sprints 
 * transitioned to a QA Engineer position at EPAM Systems where after passing an internal course, I switched to a Business Analyst role because I wanted to improve the process in our SCRUM team and saw this opportunity. With my transition to this role and preparing the backlog in advance and adding clear acceptance criteria to user stories, our team was able to achieve 100% of predictability. Often there was even free time to support other teams who needed additional resources.
 
 Currently I am working as a QA Manager for a big company in Barcelona. I am in charge of:
