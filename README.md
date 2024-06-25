@@ -9,10 +9,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="resources/pylogo.png" alt="Logo" width="250" height="100">
   </a>
 
-  <h3 align="center">MOOC Python Learning Path</h3>
+  <h3 align="center">Python Learning Path</h3>
 
   <p align="left">
     Hi! My name is Julia, and in this repository I will share my projects that I will be doing in MOOC Python course from the Department of Computer Science at the University of Helsinki. 
@@ -31,37 +31,13 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About Me</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-My name is Julia Losieva, I am from Ukraine currently living in Barcelona. 
+Some information about myself in addition to my Linkedin profile:
+I am from Ukraine currently living in Barcelona. 
+I speak English and German (full working proficiency) and Spanish at an intermediate level (B1+). 
 In 2010 I graduated from a faculty of Foreign Languages where I studied translation from English and German.
 After that I worked as a translator for 1 year where I travelled to Europe and Asia to work as an interpreter at machinery exhibitions (China, Taiwan, Germany, Austria). 
 But soon I understood that I would like to develop technical skills, because I saw how AI tools were developing and understood that only knowing foreign languages it not enough. 
@@ -70,7 +46,7 @@ With that, in 2011 I started working as a Customer Care agent at company Gamelof
 The next career path you can check on my Linkedin page, but in short I: 
 
 * completed a QA Engineering course and got a job as a QA Engineer in a database company testing SQL queries in PL/SQL and T-SQL
-* worked for a Swiss startup for auditors proofreading content in three languages, running regression tests and maintaining project documentation up-to-date which was crusial for this project with 2 week sprints 
+* worked for a Swiss startup for auditors proofreading content in three languages, running regression tests and maintaining project documentation up-to-date which was crucial for this project with 2 week sprints 
 * transitioned to a QA Engineer position at EPAM Systems where after passing an internal course, I switched to a Business Analyst role because I wanted to improve the process in our SCRUM team and saw this opportunity. With my transition to this role and preparing the backlog in advance and adding clear acceptance criteria to user stories, our team was able to achieve 100% of predictability. Often there was even free time to support other teams who needed additional resources.
 
 Currently I am working as a QA Manager for a big company in Barcelona. I am in charge of:
@@ -82,7 +58,7 @@ Currently I am working as a QA Manager for a big company in Barcelona. I am in c
 * presentations and leading events
 * promoting quality culture
 
-Why am I learning programming? Because I see opportunities in my current role for a more efficient work with data, to retreive them and see opportunities for the improvement of the current process. 
+Why am I learning programming? Because I would like to work with data in a more efficient way and automate repetitive tasks.
 As a data oriented person, I am interested in learning Python combining it with my passion for SQL. 
 
 
