@@ -9,10 +9,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="resources/pylogo.png" alt="Logo" width="200" height="100">
   </a>
 
-  <h3 align="center">MOOC Python Learning Path</h3>
+  <h3 align="center">Python Learning Path</h3>
 
   <p align="left">
     Hi! My name is Julia, and in this repository I will share my projects that I will be doing in MOOC Python course from the Department of Computer Science at the University of Helsinki. 
