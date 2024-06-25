@@ -35,7 +35,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About Me
 
-My name is Julia Losieva, I am from Ukraine currently living in Barcelona. 
+Some information about myself in addition to my Linkedin profile:
+I am from Ukraine currently living in Barcelona. 
+I speak English and German (full working proficiency) and Spanish at an intermediate level (B1+). 
 In 2010 I graduated from a faculty of Foreign Languages where I studied translation from English and German.
 After that I worked as a translator for 1 year where I travelled to Europe and Asia to work as an interpreter at machinery exhibitions (China, Taiwan, Germany, Austria). 
 But soon I understood that I would like to develop technical skills, because I saw how AI tools were developing and understood that only knowing foreign languages it not enough. 
