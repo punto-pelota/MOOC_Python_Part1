@@ -16,4 +16,3 @@ if days_at_the_university != 0:
     print("Average food expenditure:")
     print(f"Weekly: {weekly} euros")
     print(f"Daily: {daily} euros")
-
